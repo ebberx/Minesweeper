@@ -1,7 +1,7 @@
 # Minesweeper
 Small weekly project for 3rd semester CS AP Degree.
 
-Features:
+## Features:
   - Variable game-grid size
   - Hardcoded difficulty setting
   - Minesweeper game rules
